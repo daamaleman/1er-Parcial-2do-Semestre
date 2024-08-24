@@ -1,0 +1,7 @@
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Numero par o impar\Numero par o impar\bin\Debug\Numero par o impar.exe.config
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Numero par o impar\Numero par o impar\bin\Debug\Numero par o impar.exe
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Numero par o impar\Numero par o impar\bin\Debug\Numero par o impar.pdb
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Numero par o impar\Numero par o impar\obj\Debug\Numero par o impar.csproj.AssemblyReference.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Numero par o impar\Numero par o impar\obj\Debug\Numero par o impar.csproj.CoreCompileInputs.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Numero par o impar\Numero par o impar\obj\Debug\Numero par o impar.exe
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Numero par o impar\Numero par o impar\obj\Debug\Numero par o impar.pdb

@@ -1,0 +1,14 @@
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Suma de dos numeros\Suma de dos numeros\obj\Debug\net8.0\Suma de dos numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Suma de dos numeros\Suma de dos numeros\obj\Debug\net8.0\Suma de dos numeros.AssemblyInfoInputs.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Suma de dos numeros\Suma de dos numeros\obj\Debug\net8.0\Suma de dos numeros.AssemblyInfo.cs
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Suma de dos numeros\Suma de dos numeros\obj\Debug\net8.0\Suma de dos numeros.csproj.CoreCompileInputs.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Suma de dos numeros\Suma de dos numeros\bin\Debug\net8.0\Suma de dos numeros.exe
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Suma de dos numeros\Suma de dos numeros\bin\Debug\net8.0\Suma de dos numeros.deps.json
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Suma de dos numeros\Suma de dos numeros\bin\Debug\net8.0\Suma de dos numeros.runtimeconfig.json
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Suma de dos numeros\Suma de dos numeros\bin\Debug\net8.0\Suma de dos numeros.dll
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Suma de dos numeros\Suma de dos numeros\bin\Debug\net8.0\Suma de dos numeros.pdb
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Suma de dos numeros\Suma de dos numeros\obj\Debug\net8.0\Suma de dos numeros.dll
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Suma de dos numeros\Suma de dos numeros\obj\Debug\net8.0\refint\Suma de dos numeros.dll
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Suma de dos numeros\Suma de dos numeros\obj\Debug\net8.0\Suma de dos numeros.pdb
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Suma de dos numeros\Suma de dos numeros\obj\Debug\net8.0\Suma de dos numeros.genruntimeconfig.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Suma de dos numeros\Suma de dos numeros\obj\Debug\net8.0\ref\Suma de dos numeros.dll

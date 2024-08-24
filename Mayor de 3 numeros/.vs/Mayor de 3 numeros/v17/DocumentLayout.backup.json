@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\Ejercicios C#\\Mayor de 3 numeros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52756EDD-2B2D-482A-A0A6-6D9E29B4D2E8}|Mayor de 3 numeros\\Mayor de 3 numeros.csproj|c:\\users\\diede\\desktop\\metodolog\u00EDa\\proyectos c#\\ejercicios c#\\mayor de 3 numeros\\mayor de 3 numeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52756EDD-2B2D-482A-A0A6-6D9E29B4D2E8}|Mayor de 3 numeros\\Mayor de 3 numeros.csproj|solutionrelative:mayor de 3 numeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\Ejercicios C#\\Mayor de 3 numeros\\Mayor de 3 numeros\\Program.cs",
+              "RelativeDocumentMoniker": "Mayor de 3 numeros\\Program.cs",
+              "ToolTip": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\Ejercicios C#\\Mayor de 3 numeros\\Mayor de 3 numeros\\Program.cs*",
+              "RelativeToolTip": "Mayor de 3 numeros\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:26:24.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

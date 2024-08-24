@@ -1,0 +1,7 @@
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Aumento de salario\Aumento de salario\bin\Debug\Aumento de salario.exe.config
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Aumento de salario\Aumento de salario\bin\Debug\Aumento de salario.exe
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Aumento de salario\Aumento de salario\bin\Debug\Aumento de salario.pdb
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Aumento de salario\Aumento de salario\obj\Debug\Aumento de salario.csproj.AssemblyReference.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Aumento de salario\Aumento de salario\obj\Debug\Aumento de salario.csproj.CoreCompileInputs.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Aumento de salario\Aumento de salario\obj\Debug\Aumento de salario.exe
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Aumento de salario\Aumento de salario\obj\Debug\Aumento de salario.pdb

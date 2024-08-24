@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\Ejercicios C#\\Aumento de salario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C377123D-0BB6-4608-9972-2661EC98AACF}|Aumento de salario\\Aumento de salario.csproj|c:\\users\\diede\\desktop\\metodolog\u00EDa\\proyectos c#\\ejercicios c#\\aumento de salario\\aumento de salario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C377123D-0BB6-4608-9972-2661EC98AACF}|Aumento de salario\\Aumento de salario.csproj|solutionrelative:aumento de salario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\Ejercicios C#\\Aumento de salario\\Aumento de salario\\Program.cs",
+              "RelativeDocumentMoniker": "Aumento de salario\\Program.cs",
+              "ToolTip": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\Ejercicios C#\\Aumento de salario\\Aumento de salario\\Program.cs*",
+              "RelativeToolTip": "Aumento de salario\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:18:56.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
