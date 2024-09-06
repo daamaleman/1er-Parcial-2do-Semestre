@@ -1,0 +1,14 @@
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\Uso if\Uso if\bin\Debug\net8.0\Uso if.exe
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\Uso if\Uso if\bin\Debug\net8.0\Uso if.deps.json
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\Uso if\Uso if\bin\Debug\net8.0\Uso if.runtimeconfig.json
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\Uso if\Uso if\bin\Debug\net8.0\Uso if.dll
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\Uso if\Uso if\bin\Debug\net8.0\Uso if.pdb
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\Uso if\Uso if\obj\Debug\net8.0\Uso if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\Uso if\Uso if\obj\Debug\net8.0\Uso if.AssemblyInfoInputs.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\Uso if\Uso if\obj\Debug\net8.0\Uso if.AssemblyInfo.cs
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\Uso if\Uso if\obj\Debug\net8.0\Uso if.csproj.CoreCompileInputs.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\Uso if\Uso if\obj\Debug\net8.0\Uso if.dll
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\Uso if\Uso if\obj\Debug\net8.0\refint\Uso if.dll
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\Uso if\Uso if\obj\Debug\net8.0\Uso if.pdb
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\Uso if\Uso if\obj\Debug\net8.0\Uso if.genruntimeconfig.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\Uso if\Uso if\obj\Debug\net8.0\ref\Uso if.dll

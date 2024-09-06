@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\Ejercicios C#\\Semana 3\\Sesion 6\\Uso if\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{920E65C2-1764-42B5-8042-8DA523FD12A4}|Uso if\\Uso if.csproj|c:\\users\\diede\\desktop\\metodolog\u00EDa\\proyectos c#\\ejercicios c#\\semana 3\\sesion 6\\uso if\\uso if\\models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920E65C2-1764-42B5-8042-8DA523FD12A4}|Uso if\\Uso if.csproj|solutionrelative:uso if\\models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920E65C2-1764-42B5-8042-8DA523FD12A4}|Uso if\\Uso if.csproj|c:\\users\\diede\\desktop\\metodolog\u00EDa\\proyectos c#\\ejercicios c#\\semana 3\\sesion 6\\uso if\\uso if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920E65C2-1764-42B5-8042-8DA523FD12A4}|Uso if\\Uso if.csproj|solutionrelative:uso if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Evaluate.cs",
+              "DocumentMoniker": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\Ejercicios C#\\Semana 3\\Sesion 6\\Uso if\\Uso if\\models\\Evaluate.cs",
+              "RelativeDocumentMoniker": "Uso if\\models\\Evaluate.cs",
+              "ToolTip": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\Ejercicios C#\\Semana 3\\Sesion 6\\Uso if\\Uso if\\models\\Evaluate.cs*",
+              "RelativeToolTip": "Uso if\\models\\Evaluate.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:24:04.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\Ejercicios C#\\Semana 3\\Sesion 6\\Uso if\\Uso if\\Program.cs",
+              "RelativeDocumentMoniker": "Uso if\\Program.cs",
+              "ToolTip": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\Ejercicios C#\\Semana 3\\Sesion 6\\Uso if\\Uso if\\Program.cs*",
+              "RelativeToolTip": "Uso if\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAIA2wBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:20:18.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

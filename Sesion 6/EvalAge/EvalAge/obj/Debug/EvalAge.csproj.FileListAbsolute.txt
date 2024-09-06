@@ -1,0 +1,10 @@
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\EvalAge\EvalAge\bin\Debug\EvalAge.exe.config
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\EvalAge\EvalAge\bin\Debug\EvalAge.exe
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\EvalAge\EvalAge\bin\Debug\EvalAge.pdb
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\EvalAge\EvalAge\obj\Debug\EvalAge.csproj.AssemblyReference.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\EvalAge\EvalAge\obj\Debug\EvalAge.Form1.resources
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\EvalAge\EvalAge\obj\Debug\EvalAge.Properties.Resources.resources
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\EvalAge\EvalAge\obj\Debug\EvalAge.csproj.GenerateResource.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\EvalAge\EvalAge\obj\Debug\EvalAge.csproj.CoreCompileInputs.cache
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\EvalAge\EvalAge\obj\Debug\EvalAge.exe
+C:\Users\diede\Desktop\Metodología\Proyectos C#\Ejercicios C#\Semana 3\Sesion 6\EvalAge\EvalAge\obj\Debug\EvalAge.pdb
